@@ -15,6 +15,6 @@ Check it out here: [Live Demo](https://komaltrivedi257.github.io/protofolio/)
 <p float="left">
   <img src="images/homepage.png" width="250" />
   <img src="images/skills.png" width="250" />
-  <img src="assets/certificate.png" width="250" />
-  <img src="assets/contact.png" width="250" />
+  <img src="images/certificate.png" width="250" />
+  <img src="images/contact.png" width="250" />
 </p>
